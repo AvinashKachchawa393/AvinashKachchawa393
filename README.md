@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate MCA student at Manipal University with a 
 
 - 🌱 **Current Focus**: Aspiring Software Engineer and Web Developer
 - 🎓 **Education**: MCA Student at Manipal University
-- 🏅 **Awards**: Secured **1st Rank** at Kuchaman College and awarded a certificate and gold medal as the topper of my batch.
+- 🏅 **Academic Excellence Award**: Secured **1st Rank** at Kuchaman College and awarded a certificate and gold medal as the topper of my batch.
 - 💻 **Skills**: Java, Data Structures, HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, EJS, MongoDB, MySQL
 - 📚 **Certifications**: Java and Data Structures (Apna College)
 - 🚀 **Goal**: To contribute to innovative software solutions within the industry and continually improve my skills.
